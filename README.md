@@ -6,7 +6,7 @@ This repository contains two notebooks that implement deep learning models for t
 - MobileNetV2_Model.ipynb – Implementation of a model based on MobileNetV2 using transfer learning.
 
 Both notebooks include:
-- Data partitioning (training/validation split: 70/30).
+- Dataset Split (training/validation: 70/30).
 - Complete image preprocessing pipeline.
 - Model training and evaluation.
 
