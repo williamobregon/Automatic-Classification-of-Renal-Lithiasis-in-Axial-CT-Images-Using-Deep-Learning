@@ -34,6 +34,7 @@ Kindey Stone Dataset/CT/
 
 ## Citation
 W. Obregón Londoño, A. Daza Cerón, C. Torres Valencia, and D. F. Ramírez Jiménez, “Automatic Classification of Renal Lithiasis in Axial CT Images Using Deep Learning”, Cali, Colombia, 2025.
+
 @inproceedings{Obregon2025RenalLithiasis,
   title     = {Automatic Classification of Renal Lithiasis in Axial CT Images Using Deep Learning},
   author    = {W. Obregon Londoño and A. Daza Cerón and C. Torres Valencia and D. F. Ramirez Jimenez},
